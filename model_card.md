@@ -62,7 +62,7 @@ As I played with more and more examples, I started adding to the rule based syst
 **Possible issues with the dataset:**  
 Sarcasm is very hard to replicate using rule based algorithms. Also human entered data is very low, its much easier to get the data from a public source to train it on. 
 
-## 3. How the ML Model Works (if used)
+## 3. How the ML Model Works
 
 **Features used:**  
 The machine learning model is using Bag of Words as a part of its vectorization. This simple process creates a dictionary of all the words it sees in the example dataset. It does not focus on the order but it can create a weight for the words using this process. 
