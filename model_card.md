@@ -111,7 +111,7 @@ I used accuracy on the training dataset to evaluate the process of learning. And
 
 ## 5. Limitations
 
-Because of the small dataset and human labeling training can be so slow. A way to fix this is using active learning. Having a script that pulls in comments or generate examples from a source and then clusters them into groups. Unlabled groups has the user go through 10-20 examples to label and it reclusters until it makes sense. That way within 30 minutes a user fully labels a giant dataset. 
+Because of the small dataset and human labeling training can be so slow. A way to fix this is using active learning. Having a script that pulls in comments or generate examples from a source and then clusters them into groups. Unlabled groups has the user go through X examples to label and it reclusters until it makes sense. That way within 30 minutes a user fully labels a giant dataset. 
 
 
 
